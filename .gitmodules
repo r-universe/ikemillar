@@ -8,3 +8,6 @@
 [submodule "OmicsPrepR"]
 	path = OmicsPrepR
 	url = https://github.com/ikemillar/omicsprepr
+[submodule "ShinyBlock"]
+	path = ShinyBlock
+	url = https://github.com/ikemillar/shinyblock
