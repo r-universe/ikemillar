@@ -5,6 +5,9 @@
 [submodule "CDSim"]
 	path = CDSim
 	url = https://github.com/ikemillar/cdsim
+[submodule "CDSimX"]
+	path = CDSimX
+	url = https://github.com/ikemillar/cdsimx
 [submodule "OmicsPrepR"]
 	path = OmicsPrepR
 	url = https://github.com/ikemillar/omicsprepr
