@@ -8,6 +8,9 @@
 [submodule "CDSimX"]
 	path = CDSimX
 	url = https://github.com/ikemillar/cdsimx
+[submodule "MarineChain"]
+	path = MarineChain
+	url = https://github.com/ikemillar/marinechain
 [submodule "OmicsPrepR"]
 	path = OmicsPrepR
 	url = https://github.com/ikemillar/omicsprepr
